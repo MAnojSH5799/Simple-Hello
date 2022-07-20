@@ -4,7 +4,7 @@ import './App.css';
 
 
 
-function App() {
+function App1() {
   const [count, setCount] = useState("")
   const IncNum = () => {
     setCount("Hello World")
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default App1;
