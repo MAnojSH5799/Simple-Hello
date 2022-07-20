@@ -19,7 +19,7 @@ function App() {
     setVal(3)
     else if(str==='div')
     setVal(4)
-  }
+}
   
   return (
     <Container className="bg-info" style={{height:'400px', width:'400px'}}>
